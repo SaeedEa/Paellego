@@ -1,0 +1,9 @@
+- Show tiny text in the side, with yellow selecting the current words. V
+- When selecting an area, start reading from the selected section. X
+- Pause in senteces endings (when reaching a . ) || Slowing down interval at those sections. V
+- Insert checkpoints (usually at . ). V
+- Restart at checkpoint. V
+- Allow user to insert new readable text (saving text in folder then open it to start reading). V
+- Check progress bar completion.
+- Allow user to change reading speed (put a slider). V
+- Add slider to change reading text's position (on change => change i; start)
